@@ -7,7 +7,7 @@
 // age : PropTypes.number
 
 // defaultProps = defalt value for prop in case they are not passed from the parent component 
-// name< "Guest"
+// name: "Guest"
 
 import Student from './Student.jsx'
 
